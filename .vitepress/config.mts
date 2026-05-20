@@ -5,8 +5,10 @@ export default defineConfig({
   title: 'GEO 优化笔记',
   description: 'GEO（AI 搜索推荐 / 生成式引擎优化）的使用教程、视频、SOP 与宣传物料',
   lang: 'zh-CN',
+  base: '/geo/',
   cleanUrls: true,
   lastUpdated: true,
+  ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

@@ -12,9 +12,15 @@
 
 ## 进群扫码（左边）　开户加微信（右边）
 
-<div style="display:flex;gap:16px;flex-wrap:wrap;justify-content:center;">
-  <img src="/img/HPONbfiHtoNqsvxDY7kcVQOjnrd.png" alt="进群扫码" style="max-width:300px;" />
-  <img src="/img/X2B1bIN7Foe0rsxhaLyct9UDnvh.jpg" alt="开户加微信" style="max-width:300px;" />
+<div style="display:flex;gap:16px;flex-wrap:wrap;justify-content:center;align-items:flex-start;">
+  <figure style="margin:0;text-align:center;">
+    <img src="/img/微信图片_20260520205428_244_228.jpg" alt="进群扫码：geo 系统交流群" style="max-width:300px;" />
+    <figcaption>👆 进群扫码（geo 系统交流群）</figcaption>
+  </figure>
+  <figure style="margin:0;text-align:center;">
+    <img src="/img/微信图片_20260520203244_387_35.jpg" alt="开户加微信" style="max-width:300px;" />
+    <figcaption>👆 开户加微信</figcaption>
+  </figure>
 </div>
 
 ## 一、软件介绍

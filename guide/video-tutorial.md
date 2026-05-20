@@ -13,7 +13,7 @@
 ## 购买请联系下方微信
 
 <div style="text-align:center;">
-  <img src="/img/HIyhbyPx6o3dVQxvZqSc8aE5nTc.jpg" alt="购买请联系下方微信" style="max-width:320px;" />
+  <img src="/img/微信图片_20260520203244_387_35.jpg" alt="购买请联系下方微信" style="max-width:320px;" />
 </div>
 
 ## 项目概述
