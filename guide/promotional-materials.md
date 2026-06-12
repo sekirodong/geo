@@ -44,7 +44,7 @@
 
 PDF 版本（约 6.5 MB，可在线预览）：
 
-<embed src="/materials/qiyin-geo.pdf" type="application/pdf" width="100%" height="900px" style="border:1px solid #eee;border-radius:4px;" />
+<embed src="../materials/qiyin-geo.pdf" type="application/pdf" width="100%" height="900px" style="border:1px solid #eee;border-radius:4px;" />
 
 [📥 下载 PDF](/materials/qiyin-geo.pdf) ｜ PPTX 源文件（30 MB）请从夸克网盘原始分享下载。
 

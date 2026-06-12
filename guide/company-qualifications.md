@@ -77,7 +77,7 @@
 | [GEO 优化前后对比 PPT](/materials/company-qualifications/geo-before-after-comparison.pptx) | 适合销售沟通时展示优化前后变化 |
 | [AIO / AI 品牌内容优化系统 PDF](/materials/company-qualifications/aio-brand-content-system.pdf) | 适合介绍产品能力、内容优化逻辑和系统方案 |
 
-<embed src="/materials/company-qualifications/aio-brand-content-system.pdf" type="application/pdf" width="100%" height="720px" style="border:1px solid #eee;border-radius:4px;" />
+<embed src="../materials/company-qualifications/aio-brand-content-system.pdf" type="application/pdf" width="100%" height="720px" style="border:1px solid #eee;border-radius:4px;" />
 
 ## 五、对外介绍话术
 
