@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'GEO 优化笔记',
-  description: 'GEO（AI 搜索推荐 / 生成式引擎优化）的使用教程、视频、SOP 与宣传物料',
+  title: 'GEO培训指南',
+  description: 'GEO（AI 搜索推荐 / 生成式引擎优化）的培训教程、视频、SOP 与宣传物料',
   lang: 'zh-CN',
   base: '/geo/',
   cleanUrls: true,
@@ -17,17 +17,19 @@ export default defineConfig({
       { text: '视频教程', link: '/guide/video-tutorial' },
       { text: 'SOP 文档', link: '/guide/sop' },
       { text: '宣传物料', link: '/guide/promotional-materials' },
+      { text: '公司资质', link: '/guide/company-qualifications' },
     ],
 
     sidebar: {
       '/guide/': [
         {
-          text: 'GEO 优化笔记',
+          text: 'GEO培训指南',
           items: [
             { text: '📘 用户操作文档', link: '/guide/user-manual' },
             { text: '🎬 视频教程', link: '/guide/video-tutorial' },
             { text: '📑 SOP 文档', link: '/guide/sop' },
             { text: '📦 宣传物料', link: '/guide/promotional-materials' },
+            { text: '🏢 公司资质与案例', link: '/guide/company-qualifications' },
           ],
         },
       ],

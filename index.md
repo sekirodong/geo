@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "GEO 优化笔记"
+  name: "GEO培训指南"
   text: "AI 搜索推荐 / 生成式引擎优化"
   tagline: 让 AI 精准识别你的品牌，一问就有你，一查就信你，一看就找你
   actions:
@@ -23,13 +23,17 @@ features:
     link: /guide/video-tutorial
     linkText: 观看视频
   - title: 📑 SOP 文档
-    details: 幻思科技的 GEO 优化标准操作流程，含 12 个自媒体平台对照表与建议。
+    details: 泽易工作室的 GEO 优化标准操作流程，含 12 个自媒体平台对照表与建议。
     link: /guide/sop
     linkText: 阅读 SOP
   - title: 📦 宣传物料
     details: 配套宣传物料压缩包，托管在夸克网盘。
     link: /guide/promotional-materials
     linkText: 获取物料
+  - title: 🏢 公司资质与案例
+    details: 泽易工作室营业执照信息与部分合作案例截图。
+    link: /guide/company-qualifications
+    linkText: 查看资质
 ---
 
 ## 关于本站

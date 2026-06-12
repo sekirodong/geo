@@ -50,9 +50,25 @@ PDF 版本（约 6.5 MB，可在线预览）：
 
 ## 五、服务合同范本
 
-[📄 下载商户合同模板（.docx）](/materials/contract-template.docx)
+<p>
+  <a href="/geo/materials/contract-template.docx" download target="_blank" rel="noopener">
+    📄 下载商户合同模板（.docx）
+  </a>
+</p>
 
-## 六、后台操作文档
+如果浏览器或网盘环境拦截 `.docx` 文件下载，可使用备用压缩包：
+
+<p>
+  <a href="/geo/materials/contract-template.zip" download target="_blank" rel="noopener">
+    📦 下载商户合同模板备用包（.zip）
+  </a>
+</p>
+
+## 六、公司资质与案例
+
+[查看泽易工作室营业执照与部分合作案例](./company-qualifications.md)
+
+## 七、后台操作文档
 
 下面两个文档分别介绍了**总后台**与**用户后台**的操作流程，原始 zip 内是飞书 wiki 跳转链接（需要登录飞书账号查看）：
 
@@ -61,14 +77,14 @@ PDF 版本（约 6.5 MB，可在线预览）：
 | 总后台操作文档 | <https://qg4nsf2g31.feishu.cn/wiki/HdkiwUEhBi1avLkDnVjc1jSxnkb> |
 | 用户后台操作文档 | <https://qg4nsf2g31.feishu.cn/wiki/SkT5wKVPdilIzqk48ETcji8xnbe> |
 
-## 七、谷歌浏览器安装包
+## 八、谷歌浏览器安装包
 
 GEO 助手客户端依赖谷歌浏览器。原 zip 内附带 `ChromeSetup.exe`（约 10.5 MB），也可从谷歌官网下载（推荐）：
 
 - 谷歌官网：<https://www.google.cn/chrome/>
 - 或在夸克网盘原始分享中获取 `谷歌浏览器下载/ChromeSetup.exe`
 
-## 八、完整包目录
+## 九、完整包目录
 
 ::: details 点击展开（24 个文件）
 ```
